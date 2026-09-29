@@ -58,7 +58,7 @@ Contains user-related information such as:
 - Join Date
 
 ### Date_Table
-A dedicated date dimension used for time-based analysis.
+A dedicated date dimension used for time-based analysis created by using DAX formulas.
 
 It contains:
 
